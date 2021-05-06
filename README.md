@@ -1,2 +1,3 @@
-# press-kit
-Savvi's Press Kit
+# brand-kit
+
+Savvi's Brand Kit
