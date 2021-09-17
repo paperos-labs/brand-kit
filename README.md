@@ -12,11 +12,11 @@ Savvi's Brand Kit
 
 3120 x 1118 Black / Transparent (invisible in dark mode):
 
-![](/savvi-wordmark-black-transparent.png)
+<kbd><img src="/savvi-wordmark-black-transparent.png" /></kbd>
 
 791 x 293 White / Transparent (invisible in light mode):
 
-![](/savvi-wordmark-white-transparent.png)
+<kbd><img src="/savvi-wordmark-white-transparent.png" /></kbd>
 
 # Style Guide
 
