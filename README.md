@@ -6,7 +6,7 @@ Savvi's Brand Kit
 
 1024x1024 (black on white in transparent):
 
-<kbd><img src="/savvi-logo-circle-1024px.png" /></kbd>
+<kbd><img width="256" src="/savvi-logo-circle-1024px.png" /></kbd>
 
 # Wordmark
 
