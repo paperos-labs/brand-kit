@@ -4,9 +4,9 @@ Savvi's Brand Kit
 
 # Logo
 
-![](/savvi-logo.png)
+1024x1024 (black on white in transparent):
 
-![](/savvi-github-logo.png)
+<kbd><img src="/savvi-logo-circle-1024px.png" /></kbd>
 
 # Wordmark
 
